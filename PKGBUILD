@@ -20,7 +20,7 @@ depends=(
 	fluidsynth
 	graphene
 	graphviz
-	gtk4
+	gtk4-git
 	gtksourceview5
 	guile
 	json-glib
