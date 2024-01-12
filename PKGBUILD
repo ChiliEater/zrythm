@@ -13,7 +13,7 @@ license=(AGPL3)
 depends=(
 	boost
 	breeze-icons
-	carla
+	carla-git
 	chromaprint
 	dconf
 	fftw
